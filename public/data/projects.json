@@ -1,0 +1,18 @@
+{
+  "rows": [
+    {
+      "project": {
+        "name": "App Development",
+        "company": "Dropbox, Inc.",
+        "logo": "/dropbox.svg"
+      },
+      "author": {
+        "name": "Shane Black",
+        "role": "Project Manager",
+        "avatar": "/avatar.svg"
+      },
+      "progress": 50,
+      "deadline_in_days": 7
+    }
+  ]
+}
